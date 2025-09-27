@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vkolluru1974.github.io/sdcsdl/sitemap.xml
